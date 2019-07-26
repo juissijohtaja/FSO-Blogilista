@@ -1,0 +1,9 @@
+PUT http://localhost:3001/api/blogs/5d25a0c8e6b727f20cd409ce HTTP/1.1
+Content-Type: application/json
+
+{
+    "title": "kill bill 3",
+    "author": "tarantino Q",
+    "url": "http://kill.bill2.com",
+    "likes": "34"
+}
