@@ -1,10 +1,10 @@
 POST http://localhost:3001/api/blogs/ HTTP/1.1
 Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImtlaWpvIiwiaWQiOiI1ZDVmZjg5ZGI3ZWQ2MjhmNzU4MDQ1MzEiLCJpYXQiOjE1NjY1NzA3OTl9.i1x6Iqv3Tv9mnX1LA0e0IdAS0SNp7_kuuUWbXZyjVOo
 
 {
-    "title": "pikkanen kahvi 2",
+    "title": "kakkanen pihvi 6",
     "author": "Matti Nasa",
     "url": "http://kill.bill.com",
-    "likes": "1",
-    "userId": "5d5ebf3b381542727ebbf77c"
+    "likes": "10"
 }
