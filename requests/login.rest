@@ -1,7 +1,8 @@
-POST http://localhost:3001/api/login/ HTTP/1.1
+//POST http://localhost:3001/api/login/ HTTP/1.1
+POST https://dry-sands-55608.herokuapp.com/api/login/
 Content-Type: application/json
 
 {
-    "username": "keijo",
-    "password": "kumi"
+    "username": "kokkeli",
+    "password": "pablo"
 }

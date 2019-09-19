@@ -1,1 +1,2 @@
-GET http://localhost:3001/api/blogs
+//GET http://localhost:3001/api/blogs
+GET https://dry-sands-55608.herokuapp.com/api/blogs
